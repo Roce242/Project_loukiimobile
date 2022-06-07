@@ -1,0 +1,9 @@
+{
+  "articles":[],
+  "users":[
+    {
+      "email": "rocecodeur@gmail.com",
+      "password": "admin"
+    }
+  ]
+}
